@@ -1,7 +1,6 @@
 package com.example.rejestracja;
 
 import android.os.Bundle;
-import android.util.Patterns;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
